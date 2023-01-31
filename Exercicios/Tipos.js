@@ -36,6 +36,24 @@ const formulario = {
     idade: 39,
 };
 console.log(formulario);
+// Null
+let variavelTesteNull = null;
+console.log('\nNull');
+console.log(variavelTesteNull);
+console.log(typeof variavelTesteNull); // null e do tipo object
+console.log("Exemplo1 null == undefined(Valor): ", null == undefined);
+console.log("Exemplo2 null === undefined(Valor e Tipo): ", null === undefined);
+// Never
+console.log('\nNever'); // :never Valor que nunca ira ocorrer, usado em mensagem de erro, e loop infinitos.
+/*function error(message: string): never{
+    throw new Error(message);
+}
+console.log(error('Error de Mensagem - 01 '))
+
+function rejectMessage(){
+    return error('Error de Mensagem - 02');
+}
+console.log(rejectMessage());*/
 // Void
 console.log('\nVoid');
 ola(); // Função tipo void não retorna dados.
