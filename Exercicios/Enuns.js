@@ -1,4 +1,10 @@
 "use strict";
+/**
+ * Objetivo: Crie um programa que crie enums e imprima os dados na tela.
+ * Entrada: Sem Entrada.
+ * Saida: Dados impressos na tela
+ * Autor: Rafael Florentino.
+ */
 // Numeric Enum
 var Idiomas;
 (function (Idiomas) {

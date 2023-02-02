@@ -1,3 +1,9 @@
+/**
+ * Objetivo: Crie um programa que crie objetos e funções e imprima os dados na tela.
+ * Entrada: Sem Entrada.
+ * Saida: Dados do objeto e mensagem das funções.
+ * Autor: Rafael Florentino.
+ */
 export { }
 
 const pessoa = {
