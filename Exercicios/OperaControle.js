@@ -115,6 +115,7 @@ while (usuario[contando]) {
     console.log('Usuario... : ', usuario[contando]);
     contando++;
 }
+// DO WHILE
 console.log("\nDo While ");
 let contador2 = 0;
 do {

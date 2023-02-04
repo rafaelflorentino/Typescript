@@ -133,6 +133,7 @@ while(usuario[contando]){
     contando++;
 }
 
+// DO WHILE
 console.log("\nDo While ");
 let contador2 = 0;
 do{
