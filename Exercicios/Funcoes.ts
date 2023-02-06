@@ -1,5 +1,5 @@
 /**
- * Objetivo: Crie funções .
+ * Objetivo: Crie funções.
  * Entrada: Sem Entrada.
  * Saida: Mesagem contendo os dados.
  * Autor: Rafael Florentino.
@@ -73,3 +73,4 @@ pessoa2 = {
 console.log(pessoa);
 console.log('\n');
 console.log(pessoa2);
+
