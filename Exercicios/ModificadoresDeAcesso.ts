@@ -1,7 +1,7 @@
 /**
- * Objetivo: Crie um classe estudante
+ * Objetivo: Crie um classe estudante, usando protect, private, protected.
  * Entrada: Sem Entrada.
- * Saida: Nome da pessoa.
+ * Saida: Codigo, nome, idade, curso.
  * Autor: Rafael Florentino.
  */
 export {}
